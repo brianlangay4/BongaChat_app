@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/colorPrimaryDark"
+    android:gravity="center">
+
+    <Button
+        android:textSize="20dp"
+        android:fontFamily="@font/dancingspirit"
+        android:textStyle="bold"
+        android:id="@+id/add_from_web_button"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="ADD MOVIE FROM INTERNET"/>
+
+    <Button
+        android:fontFamily="@font/dancingspirit"
+
+        android:id="@+id/add_mannualy_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ADD MOVIE MANUALLY"/>
+
+
+
+</LinearLayout>

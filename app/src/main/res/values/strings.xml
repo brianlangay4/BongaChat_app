@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BongaChat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select_theme_prompt">Select Theme</string>
+    <string name="profile_image">profile_image</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- arrays.xml -->
+<resources>
+    <string-array name="theme_options">
+        <item>Default Theme</item>
+        <item>Brown Theme</item>
+        <item>Navy Theme</item>
+    </string-array>
+</resources>

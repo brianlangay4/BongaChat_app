@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item_delete"
+        android:title="Delete all movies"
+        app:showAsAction="never"
+        android:onClick="clearAll"/>
+
+        <item
+            android:id="@+id/item_help"
+            android:title="Help"
+            app:showAsAction="never"
+            android:onClick="helpClicked"/>
+
+
+
+
+
+
+</menu>
