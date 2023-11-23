@@ -3,6 +3,9 @@
 this repo contains a three  month old of java base sql and network connection programming to make a social media application 
 the repo contains the all files to the project and updated graddle 8 
 
+full  application look available in screenshots file 
+open and have a look at what is already done in this project
+
 note:
 the project is fully implemented by indivial skills and idea towards networking and sql integration to create user management system as well chat system the application is not fully complete but no erros and pay attention to commit messages and the feature part were you can keep track on what's new in the development do not run the application in the real device code hasn't been fully cleaned to avoid memory leaks try on test devices only i have included leak detector to keep track on leaks so feel free to remove if you have some experience in java and have full understanding on this project code 
 
@@ -25,4 +28,4 @@ wallet
 send and receive credit demo sql 
 user management 
 theme control - partial
-![Uploading image.png…]()
+
